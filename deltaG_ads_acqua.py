@@ -24,8 +24,9 @@ DeltaG_ads_ZnSe= muZnSe_H2O_ads - muH2O - muZnSe
 print(DeltaG_ads_ZnO_Cu)
 print(DeltaG_ads_ZnS_Cu)
 print(DeltaG_ads_ZnSe_Cu)
-
-
+print(DeltaG_ads_ZnO)
+print(DeltaG_ads_ZnS)
+print(DeltaG_ads_ZnSe)
 
 #-0.984473888296634 per ZnO dopato
 #0.601696553057991 per ZnS dopato
