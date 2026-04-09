@@ -17,6 +17,9 @@ muZnSeCu_H2O_ads=-184894.79660432605
 DeltaG_ads_ZnO_Cu= muZnOCu_H2O_ads - muH2O - muZnO_Cu
 DeltaG_ads_ZnS_Cu= muZnSCu_H2O_ads - muH2O - muZnS_Cu
 DeltaG_ads_ZnSe_Cu= muZnSeCu_H2O_ads - muH2O - muZnSe_Cu
+DeltaG_ads_ZnO= muZnO_H2O_ads - muH2O - muZnO
+DeltaG_ads_ZnS= muZnS_H2O_ads - muH2O - muZnS
+DeltaG_ads_ZnSe= muZnSe_H2O_ads - muH2O - muZnSe
 
 print(DeltaG_ads_ZnO_Cu)
 print(DeltaG_ads_ZnS_Cu)
