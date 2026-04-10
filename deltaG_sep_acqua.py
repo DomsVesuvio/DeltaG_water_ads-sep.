@@ -24,14 +24,16 @@ muZnSeCu_OH_ads=-184878.72692001172
 muZnSeCu_H_ads=-184439.97319227585
 muZnSeCu_H2O_ads=-184894.79660432605
 
-muZnO_OH_ads=
+muZnO_OH_ads=-151853.74008674207
 muZnO_H_ads=-151415.79997379854
-muZnO_H2O_ads=
-muZnS_OH_ads=
-muZnS_H_ads=
-muZnS_H2O_ads=
-muZnSe_OH_ads= 
-muZnSe_H_ads= 
+muZnO_H2O_ads=-151870.87971385926
+
+muZnS_OH_ads=-187246.66102244947
+muZnS_H_ads=-186808.4857936097
+muZnS_H2O_ads=-187263.64211136982
+
+muZnSe_OH_ads= -185231.03164403207
+muZnSe_H_ads=-184792.55616975395
 muZnSe_H2O_ads=
 
 #DeltaG1= muZnO_OH_ads + muZnO_H_ads - muZnO_H2O_ads - muZnO
