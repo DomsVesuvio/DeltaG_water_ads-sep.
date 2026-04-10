@@ -37,13 +37,13 @@ print(DeltaG_ZnS_doped)
 print(DeltaG_ZnSe_doped)
 
 
-#DeltaG di ZnO_Cu è 2.279301167349331
-#DeltaG di ZnS_Cu è 3.107639360590838
-#DeltaG di ZnSe_Cu è 3.010183835227508
+#DeltaG di ZnO_Cu è  2.2803135217982344
+#DeltaG di ZnS_Cu è 3.116583579860162
+#DeltaG di ZnSe_Cu è 3.0956323380814865
 
 
 
-#Per i basso spin le differenze tra deltaG1 e deltaG(appena calcolati)
+#Per i basso spin le differenze tra deltaG1 e deltaG(appena calcolati)  da correggere.
 #-1.16 ZnOCu; -0.44 per ZnSCu; -0.53 per ZnSeCu
 
 
