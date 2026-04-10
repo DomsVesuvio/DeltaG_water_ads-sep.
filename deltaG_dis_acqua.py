@@ -36,17 +36,23 @@ muZnSe_OH_ads= -185231.03164403207
 muZnSe_H_ads=-184792.55616975395
 muZnSe_H2O_ads=-185247.71930809747
 
-#DeltaG1= muZnO_OH_ads + muZnO_H_ads - muZnO_H2O_ads - muZnO
-#DeltaG2= muZnS_OH_ads + muZnS_H_ads - muZnS_H2O_ads - muZnS
-#DeltaG3= muZnSe_OH_ads + muZnSe_H_ads - muZnSe_H2O_ads - muZnSe
+DeltaG_ZnO= muZnO_OH_ads + muZnO_H_ads - muZnO_H2O_ads - muZnO
+DeltaG_ZnS= muZnS_OH_ads + muZnS_H_ads - muZnS_H2O_ads - muZnS
+DeltaG_ZnSe= muZnSe_OH_ads + muZnSe_H_ads - muZnSe_H2O_ads - muZnSe
 
 DeltaG_ZnO_doped= muZnOCu_OH_ads + muZnOCu_H_ads - muZnOCu_H2O_ads - muZnO_Cu
 DeltaG_ZnS_doped= muZnSCu_OH_ads + muZnSCu_H_ads - muZnSCu_H2O_ads - muZnS_Cu
 DeltaG_ZnSe_doped= muZnSeCu_OH_ads + muZnSeCu_H_ads - muZnSeCu_H2O_ads - muZnSe_Cu
 
+
+
+print(DeltaG_ZnO)
+print(DeltaG_ZnS)
+print(DeltaG_ZnSe)
 print(DeltaG_ZnO_doped)
 print(DeltaG_ZnS_doped)
 print(DeltaG_ZnSe_doped)
+
 
 
 #DeltaG di ZnO_Cu è  2.2803135217982344
