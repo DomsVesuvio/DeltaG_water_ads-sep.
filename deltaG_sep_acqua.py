@@ -25,7 +25,7 @@ muZnSeCu_H_ads=-184439.97319227585
 muZnSeCu_H2O_ads=-184894.79660432605
 
 muZnO_OH_ads=
-muZnO_H_ads=
+muZnO_H_ads=-151415.79997379854
 muZnO_H2O_ads=
 muZnS_OH_ads=
 muZnS_H_ads=
