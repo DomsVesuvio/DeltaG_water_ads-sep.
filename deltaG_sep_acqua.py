@@ -24,6 +24,16 @@ muZnSeCu_OH_ads=-184878.72692001172
 muZnSeCu_H_ads=-184439.97319227585
 muZnSeCu_H2O_ads=-184894.79660432605
 
+muZnO_OH_ads=
+muZnO_H_ads=
+muZnO_H2O_ads=
+muZnS_OH_ads=
+muZnS_H_ads=
+muZnS_H2O_ads=
+muZnSe_OH_ads= 
+muZnSe_H_ads= 
+muZnSe_H2O_ads=
+
 #DeltaG1= muZnO_OH_ads + muZnO_H_ads - muZnO_H2O_ads - muZnO
 #DeltaG2= muZnS_OH_ads + muZnS_H_ads - muZnS_H2O_ads - muZnS
 #DeltaG3= muZnSe_OH_ads + muZnSe_H_ads - muZnSe_H2O_ads - muZnSe
