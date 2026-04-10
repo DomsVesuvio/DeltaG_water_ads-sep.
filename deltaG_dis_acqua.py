@@ -63,10 +63,3 @@ print(DeltaG_ZnSe_doped)
 #DeltaG di ZnS 3.699818909546593
 #DeltaG di ZnSe 3.5614226122561377
 
-
-#Per i basso spin le differenze tra deltaG1 e deltaG(appena calcolati)  da correggere.
-#-1.16 ZnOCu; -0.44 per ZnSCu; -0.53 per ZnSeCu
-
-
-#Per gli alto spin le differenze tra i deltaG1 e i deltaG(appena calcolati)
-#-1.35 ZnOCu: -0.36 per ZnSCu ; -0.66 per ZnSeCu.
